@@ -18,3 +18,4 @@ document.getElementById('btn-subtract').addEventListener('click', () => {
   document.getElementById('result').textContent = subtract(a, b);
 });
 //commit 1
+//commit 3
